@@ -1,7 +1,7 @@
 # 🚀 Consignes
 
 Premiers exercices de Javascript 
-> Remise en route Tableaux, createElement(), appendchild()
+> Événements au scroll, manipulation du DOM, utilisation de .style
 
 ## 📦 Technologies utilisées
 
@@ -10,4 +10,4 @@ Premiers exercices de Javascript
 
 ## 🖼️ Aperçu visuel (optionnel)
 
-[Live Demo](https://ocrzia.github.io/JS8-Notes-ecole/)
+[Live Demo](https://ocrzia.github.io/JS11-Progress-bar-sticky-menu/)
